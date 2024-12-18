@@ -72,7 +72,7 @@ If you encounter any issues or have suggestions for improvement, feel free to re
 
 1. Ensure you have **Java** installed on your system.
 2. Download the `RocketXGame.jar` file from this repository.
-3. https://drive.google.com/file/d/1kI7iV7whQILhFPAIQhVF-vvbLvZ40_d8/view?usp=drive_link
+3. https://drive.google.com/drive/folders/13_vO_PZ3WTxAYRY6k2dMbA9-v2PnMQoP?usp=sharing
 
 Enjoy the game and good luck! 🎉
 

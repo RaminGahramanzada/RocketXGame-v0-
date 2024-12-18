@@ -1,5 +1,7 @@
 # 🚀 RocketXGame (v1.0)
 
+Tags: #JavaGame #SwingGame #IndieGame #DesktopGame #RocketGame #Gaming #OTPVerification #AccountSystem #JavaDevelopment #GameDev #FreeGame #GameCoins #PlayNow #GameRelease #OpenSource #GamingCommunity #Feedback #GameDevelopment
+
 Welcome to **RocketXGame**, a thrilling Java Swing-based desktop game that promises endless fun and excitement. Begin your adventure with a secure and user-friendly account system and enjoy 1000 game coins as you take off into the RocketX world!
 
 ---

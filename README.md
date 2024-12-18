@@ -76,8 +76,12 @@ If you encounter any issues or have suggestions for improvement, feel free to re
 
 Enjoy the game and good luck! 🎉
 
-Disclaimer: RocketXGame is a purely entertainment-based game.
+⚠️ Disclaimer
+<div style="border: 2px solid #ff5f5f; padding: 10px; border-radius: 10px; background-color: #ffebeb;">
+🚫 RocketXGame is an entertainment-only game.
+Virtual currency in the game cannot be purchased with real money.
+There are no monetary rewards or exchanges.
+This game does not involve gambling in any form and is strictly for fun.
+Enjoy responsibly!
 
-The in-game virtual currency cannot be purchased with real money or exchanged for real-world value.
-There are no purchases, rewards, or money transfers within the game.
-This game is designed solely for entertainment purposes and does not constitute gambling in any form.
+</div>

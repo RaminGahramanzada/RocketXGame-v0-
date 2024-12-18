@@ -87,3 +87,23 @@ This game does not involve gambling in any form and is strictly for fun.
 Enjoy responsibly!
 
 </div>
+
+Tags: 
+- 🕹️ **#JavaGame**  
+- 🚀 **#SwingGame**  
+- 🎮 **#IndieGame**  
+- 💻 **#DesktopGame**  
+- 🌌 **#RocketGame**  
+- 🎯 **#Gaming**  
+- 📧 **#OTPVerification**  
+- 🔐 **#AccountSystem**  
+- 👾 **#JavaDevelopment**  
+- 🕹️ **#GameDev**  
+- 🎁 **#FreeGame**  
+- 💰 **#GameCoins**  
+- 🏁 **#PlayNow**  
+- 🚨 **#GameRelease**  
+- 🌱 **#OpenSource**  
+- 🧠 **#GamingCommunity**  
+- 💬 **#Feedback**  
+- 🔧 **#GameDevelopment**
